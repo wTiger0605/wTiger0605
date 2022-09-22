@@ -38,18 +38,17 @@
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/nextjs/nextjs-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/ndoejs-ar21.svg"></code>
-<br />
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
+<code><img width="10%" src="https://d33wubrfki0l68.cloudfront.net/72901cd2af29b26e7000165d9cb90366820717a1/dd121/writing/graphql-with-next-js-and-apollo/nextjs.svg"></code>
+
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/shopify/shopify-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/bitcoin/bitcoin-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/ethereum/ethereum-ar21.svg"></code>
-<br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
