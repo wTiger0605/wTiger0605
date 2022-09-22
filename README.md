@@ -47,7 +47,7 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/npm/npm-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-ar21.svg"></code>
 <code><img width="10%" src="https://d33wubrfki0l68.cloudfront.net/72901cd2af29b26e7000165d9cb90366820717a1/dd121/writing/graphql-with-next-js-and-apollo/nextjs.svg"></code>
@@ -72,7 +72,7 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/joomula/joomula-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/joomla/joomla-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/drupal/drupal-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/paypal/paypal-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/klarna/klarna-ar21.svg"></code>
