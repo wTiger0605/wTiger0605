@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 <img src="https://github-readme-stats.vercel.app/api?username=zluvsand&show_icons=true"/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wTiger0605&show_icons=true)
 
 <!--
 **wTiger0605/wTiger0605** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
