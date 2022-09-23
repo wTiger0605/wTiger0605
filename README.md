@@ -1,7 +1,10 @@
 ### Hi there 👋
-
+<!--
 ![wTiger0605's GitHub stats](https://github-readme-stats.vercel.app/api?username=wTiger0605&show_icons=true&theme=merko)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=wTiger0605&show_icons=true&theme=merko&layout=compact)
+-->
+
+<img style="max-width: 100%;" width="400" src="https://github-readme-stats.vercel.app/api?username=wTiger0605&show_icons=true&theme=merko"/><img style="max-width: 100%;" width="335" src="https://github-readme-stats.vercel.app/api/top-langs?username=wTiger0605&show_icons=true&theme=merko&layout=compact"/>
 
 <img src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white">
 <img src="">
