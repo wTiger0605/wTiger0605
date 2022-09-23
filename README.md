@@ -94,7 +94,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=html,css,xml,php,js,jquery,json,react,redux,redis,regex,remix,vue,angular,nodejs,ts,nuxtjs,nextjs,express,bootstrap,sass,c,cs,cpp,unity,webpack,shopify,laravel,symfony,wordpress,bitcoin,solidity,ethereum,mysql,mongodb,firebase,aws,godaddy,netlify,git,github,gitlab,py,java,django,paypal,klarna,spotify,mailchimp,trello,figma,xd" />
   </a>
 </p>
 
