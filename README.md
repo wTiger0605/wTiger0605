@@ -59,6 +59,7 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/shopify/shopify-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/symfony/symfony-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg"></code>
@@ -94,7 +95,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,php,js,jquery,react,redux,redis,regex,remix,vue,angular,nodejs,ts,nuxtjs,nextjs,express,bootstrap,sass,c,cs,cpp,unity,webpack,codepen,laravel,symfony,wordpress,solidity,ethereum,mysql,mongodb,firebase,aws,netlify,git,github,gitlab,py,java,django,paypal,klarna,spotify,mailchimp,figma,xd" />
+    <img src="https://skillicons.dev/icons?i=html,css,php,js,jquery,react,redux,redis,regex,remix,vue,angular,nodejs,ts,nuxtjs,nextjs,express,bootstrap,sass,c,cs,cpp,unity,webpack,codepen,laravel,symfony,wordpress,solidity,mysql,mongodb,firebase,aws,netlify,git,github,gitlab,py,java,django,figma,xd" />
   </a>
 </p>
 
