@@ -3,8 +3,9 @@
 ![wTiger0605's GitHub stats](https://github-readme-stats.vercel.app/api?username=wTiger0605&show_icons=true&theme=merko)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=wTiger0605&show_icons=true&theme=merko&layout=compact)
 -->
-
-<img style="max-width: 100%;" width="400" src="https://github-readme-stats.vercel.app/api?username=wTiger0605&show_icons=true&theme=merko"/><img style="max-width: 100%;" width="335" src="https://github-readme-stats.vercel.app/api/top-langs?username=wTiger0605&show_icons=true&theme=merko&layout=compact"/>
+<p align="center" dir="auto">
+    <img style="max-width: 100%;" width="400" src="https://github-readme-stats.vercel.app/api?username=wTiger0605&show_icons=true&theme=merko"/><img style="max-width: 100%;" width="335" src="https://github-readme-stats.vercel.app/api/top-langs?username=wTiger0605&show_icons=true&theme=merko&layout=compact"/>
+</p>
 
 <img src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white">
 <img src="">
@@ -82,7 +83,20 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/spotify/spotify-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mailchimp/mailchimp-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/trello/trello-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg"></code>
 
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 
 <table width="320px">
     <tbody>
