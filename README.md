@@ -87,11 +87,11 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg"></code>
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,php,js,jquery,react,redux,redis,regex,remix,vue,angular,nodejs,ts,nuxtjs,nextjs,express,bootstrap,sass,c,cs,cpp,unity,webpack,codepen,laravel,symfony,wordpress,solidity,mysql,mongodb,firebase,aws,netlify,git,github,gitlab,py,java,django,figma,xd)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,php,js,jquery,react,redux,redis,regex,remix,vue,angular,nodejs,ts,nuxtjs,nextjs,express,bootstrap,sass,c,cs,cpp,unity,webpack,codepen,laravel,symfony,wordpress,solidity,mysql,mongodb,firebase,aws,netlify,git,github,gitlab,py,java,django,figma,xd&theme=light)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,php,js,jquery,react,redux,redis,regex,remix,vue,angular,nodejs,ts,nuxtjs,nextjs,express,bootstrap,sass,c,cs,cpp,unity,webpack,codepen,laravel,symfony,wordpress,solidity,mysql,mongodb,firebase,aws,netlify,git,github,gitlab,py,java,django,figma,xd&perline=3)](https://skillicons.dev)
 
 <p align="center">
   <a href="https://skillicons.dev">
