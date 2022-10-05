@@ -47,9 +47,9 @@ I'm Matej, Fullstack Web developer with over 8 years of experience in software i
 
 - ⚡ Fun fact: Banging your head against a wall for one hour burns 150 calories
 
-### :mailbox: How to reach me: <img src="https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com"/> <img src="https://img.shields.io/badge/-@daftdey-0088CC?style=flat&logo=Telegram&logoColor=white"/> <img src="https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com"/> <img src="https://img.shields.io/badge/-@daftdey-0088CC?style=flat&logo=Telegram&logoColor=white"/>
+#### :mailbox: How to reach me: <img src="https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com"/> <img src="https://img.shields.io/badge/-@daftdey-0088CC?style=flat&logo=Telegram&logoColor=white"/> <img src="https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com"/> <img src="https://img.shields.io/badge/-@daftdey-0088CC?style=flat&logo=Telegram&logoColor=white"/>
 <details>
-    <summary>### <b>🛠️ Technologies </b></summary>
+    <summary> <b>🛠️ Technologies </b> </summary>
     <p align="center" dir="auto">
         <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
         <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
@@ -99,7 +99,7 @@ I'm Matej, Fullstack Web developer with over 8 years of experience in software i
     </P>
 </details>
 <details>
-    <summary> ### :zap: Github status </summary>
+    <summary> <b> :zap: Github status </b> </summary>
     <p align="center" dir="auto">
         <img style="max-width: 100%;" width="400" src="https://github-readme-stats.vercel.app/api?username=wTiger0605&show_icons=true&theme=merko"/><img style="max-width: 100%;" width="335" src="https://github-readme-stats.vercel.app/api/top-langs?username=wTiger0605&show_icons=true&theme=merko&layout=compact"/>
     </p>
