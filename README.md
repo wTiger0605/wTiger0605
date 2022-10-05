@@ -3,7 +3,7 @@
 ![wTiger0605's GitHub stats](https://github-readme-stats.vercel.app/api?username=wTiger0605&show_icons=true&theme=merko)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=wTiger0605&show_icons=true&theme=merko&layout=compact)
 -->
-Welcome to my page!
+### Welcome to my page!
 
 I'm Matej, Fullstack Web developer with over 8 years of experience in software industry. Excellent reputation for resolving problems and improving customer satisfaction. I'm highly proficient in both front-end and back-end frameworks along with relational / non-relational databases and well versed in API creation & integration. I can work and manage from development to test to deployment & my another expertise is, I write very clean and readable code.
 
@@ -29,7 +29,7 @@ I'm Matej, Fullstack Web developer with over 8 years of experience in software i
 
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on <img src="https://img.shields.io/badge/-Shopify-7AB55C?style=plastic&logo=shopify&logoColor=white"/> <img src="https://img.shields.io/badge/-Mernstack-FCA121?style=plastic&logo=mernstack&logoColor=white"/> <img src="https://img.shields.io/badge/Blockchain-6CADDF?style=plastic&logo=ethereum&logoColor=white"/> projects.
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
