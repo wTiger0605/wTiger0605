@@ -29,7 +29,7 @@ I'm Matej, Fullstack Web developer with over 8 years of experience in software i
     -->
 </p>
 
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+<img align="right" width="40%" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
 - 🔭 I'm currently working on <!-- <img src="https://img.shields.io/badge/-Shopify-7AB55C?style=plastic&logo=shopify&logoColor=white"/> <img src="https://img.shields.io/badge/-Mernstack-FCA121?style=plastic&logo=mernstack&logoColor=white"/> <img src="https://img.shields.io/badge/Blockchain-6CADDF?style=plastic&logo=ethereum&logoColor=white"/> --> <strong>Shopify</strong>, <strong>Blockchain</strong>, <strong>Mern stack</strong> projects.
 
@@ -46,15 +46,6 @@ I'm Matej, Fullstack Web developer with over 8 years of experience in software i
 - ⚡ Fun fact: Banging your head against a wall for one hour burns 150 calories
 
 :mailbox: How to reach me: <img src="https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com"/> <img src="https://img.shields.io/badge/-@daftdey-0088CC?style=flat&logo=Telegram&logoColor=white"/> <img src="https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com"/> <img src="https://img.shields.io/badge/-@daftdey-0088CC?style=flat&logo=Telegram&logoColor=white"/>
-
-<p align="center" dir="auto">
-    <img style="max-width: 100%;" width="400" src="https://github-readme-stats.vercel.app/api?username=wTiger0605&show_icons=true&theme=merko"/><img style="max-width: 100%;" width="335" src="https://github-readme-stats.vercel.app/api/top-langs?username=wTiger0605&show_icons=true&theme=merko&layout=compact"/>
-</p>
-
-<p align="center" dir="auto">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sagar-sharma-7&theme=nord_dark"/><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sagar-sharma-7&theme=nord_dark"/>
-</p>
-
 <details>
     <summary><b>🛠️:zap: Technologies </b></summary>
     <p align="center" dir="auto">
@@ -106,10 +97,21 @@ I'm Matej, Fullstack Web developer with over 8 years of experience in software i
     </P>
 </details>
 <details>
-    <summary><b>🎁 Open me (HTML approach) </b></summary>
-    <img src="https://media.giphy.com/media/H4uE6w9G1uK4M/giphy.gif"/>
+    <summary><b>🎁 Github status </b></summary>
+    <p align="center" dir="auto">
+        <img style="max-width: 100%;" width="400" src="https://github-readme-stats.vercel.app/api?username=wTiger0605&show_icons=true&theme=merko"/><img style="max-width: 100%;" width="335" src="https://github-readme-stats.vercel.app/api/top-langs?username=wTiger0605&show_icons=true&theme=merko&layout=compact"/>
+    </p>
+
+    <p align="center" dir="auto">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sagar-sharma-7&theme=nord_dark"/><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sagar-sharma-7&theme=nord_dark"/>
+    </p>
+    
+    <img src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=gautamkrishnar&hide_title=true&hide_border=true&langs_count=6&bg_color=00000000&text_color=777"/>
+
+    <img src="https://github-profile-trophy.vercel.app/?username=wTiger0605&column=6&rank=SSS,SS,S,AAA,AA,A,B,C"/>
 </details>
 
+<!--
 <p align="center" dir="auto">
     <img src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white">
     <img src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white">
@@ -120,11 +122,7 @@ I'm Matej, Fullstack Web developer with over 8 years of experience in software i
 <img src="https://raw.githubusercontent.com/<OWNER>/<OWNER>/master/<GIF_NAME>.gif" width="30px">
 
 ![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-
-
-<img src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=gautamkrishnar&hide_title=true&hide_border=true&langs_count=6&bg_color=00000000&text_color=777"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=wTiger0605&column=6&rank=SSS,SS,S,AAA,AA,A,B,C"/>
+-->
 
 <!--
 [![My Skills](https://skillicons.dev/icons?i=html,css,php,js,jquery,react,redux,redis,regex,remix,vue,angular,nodejs,ts,nuxtjs,nextjs,express,bootstrap,sass,c,cs,cpp,unity,webpack,codepen,laravel,symfony,wordpress,solidity,mysql,mongodb,firebase,aws,netlify,git,github,gitlab,py,java,django,figma,xd)](https://skillicons.dev)
