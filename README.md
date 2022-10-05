@@ -51,6 +51,7 @@ I'm Matej, Fullstack Web developer with over 8 years of experience in software i
 
 <details>
     <summary> <b> :zap: My Github Stats </b> </summary>
+    <p align="left" dir="auto"> </p>
     <p align="left" dir="auto">
         <img style="max-width: 100%;" width="54%" src="https://github-readme-stats.vercel.app/api?username=wTiger0605&show_icons=true&theme=moltack"/> <img style="max-width: 100%;" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=wTiger0605&show_icons=true&theme=moltack&layout=compact"/>
     </p>
@@ -64,6 +65,7 @@ I'm Matej, Fullstack Web developer with over 8 years of experience in software i
 
 <details>
     <summary> <b>🛠️ Technologies and Tools </b> </summary>
+    <p align="center" dir="auto"></p>
     <p align="center" dir="auto">
         <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
         <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
