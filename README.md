@@ -47,7 +47,7 @@ I'm Matej, Fullstack Web developer with over 8 years of experience in software i
 
 - ⚡ Fun fact: Banging your head against a wall for one hour burns 150 calories
 
-#### :mailbox: How to reach me:  <img src="https://img.shields.io/badge/-webdevking0605@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:webdevking0605@gmail.com"/> [<img src="https://img.shields.io/badge/-@wTiger0605-0088CC?style=flat&logo=Telegram&logoColor=white"/>](https://t.me/wTiger0605) <img src="https://img.shields.io/badge/wTiger0605-7289DA?style=flat&labelColor=7289DA&logo=discord&logoColor=white"/> [<img src="https://img.shields.io/badge/-Skype-0088CC?style=flat&logo=Skype&logoColor=white"/>](https://join.skype.com/invite/tMjKFZFuae2I)
+#### :mailbox: How to reach me:  [<img src="https://img.shields.io/badge/-webdevking0605@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:webdevking0605@gmail.com"/>](mailto:webdevking0605@gmail.com) [<img src="https://img.shields.io/badge/-@wTiger0605-0088CC?style=flat&logo=Telegram&logoColor=white"/>](https://t.me/wTiger0605) <img src="https://img.shields.io/badge/wTiger0605-7289DA?style=flat&labelColor=7289DA&logo=discord&logoColor=white"/> [<img src="https://img.shields.io/badge/-Skype-0088CC?style=flat&logo=Skype&logoColor=white"/>](https://join.skype.com/invite/tMjKFZFuae2I)
 
 <details>
     <summary> <b> :zap: My Github Stats </b> </summary>
