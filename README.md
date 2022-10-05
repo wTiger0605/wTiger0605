@@ -47,7 +47,21 @@ I'm Matej, Fullstack Web developer with over 8 years of experience in software i
 
 - ⚡ Fun fact: Banging your head against a wall for one hour burns 150 calories
 
-#### :mailbox: How to reach me: <img src="https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com"/> <img src="https://img.shields.io/badge/-@daftdey-0088CC?style=flat&logo=Telegram&logoColor=white"/> <img src="https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com"/> <img src="https://img.shields.io/badge/-@daftdey-0088CC?style=flat&logo=Telegram&logoColor=white"/>
+#### :mailbox: How to reach me: <img src="https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com"/> <img src="https://img.shields.io/badge/-@daftdey-0088CC?style=flat&logo=Telegram&logoColor=white"/> <img src="https://img.shields.io/badge/mayank0255-7289DA?style=flat&labelColor=7289DA&logo=discord&logoColor=white"/> <img src="https://img.shields.io/badge/-@daftdey-0088CC?style=flat&logo=Telegram&logoColor=white"/>
+
+<details>
+    <summary> <b> :zap: My Github Stats </b> </summary>
+    <p align="left" dir="auto">
+        <img style="max-width: 100%;" width="54%" src="https://github-readme-stats.vercel.app/api?username=wTiger0605&show_icons=true&theme=moltack"/> <img style="max-width: 100%;" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=wTiger0605&show_icons=true&theme=moltack&layout=compact"/>
+    </p>
+    <p style="display:flex">
+        <img align=top style="max-width: 100%;" width="44%" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=gautamkrishnar&hide_title=true&hide_border=true&langs_count=6&bg_color=00000000&text_color=777"/><img align=top style="max-width: 100%;" width="28%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sagar-sharma-7&theme=nord_dark"/><img style="max-width: 100%;" width="28%" align=top src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sagar-sharma-7&theme=nord_dark"/>
+    </p>
+    <!--
+    <img src="https://github-profile-trophy.vercel.app/?username=wTiger0605&column=6&rank=SSS,SS,S,AAA,AA,A,B,C"/>
+    -->
+</details>
+
 <details>
     <summary> <b>🛠️ Technologies and Tools </b> </summary>
     <p align="center" dir="auto">
@@ -97,20 +111,6 @@ I'm Matej, Fullstack Web developer with over 8 years of experience in software i
         <code><img width="10%" src="https://www.vectorlogo.zone/logos/trello/trello-ar21.svg"></code>
         <code><img width="10%" src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg"></code>
     </P>
-</details>
-<details>
-    <summary> <b> :zap: My Github Stats </b> </summary>
-    <p align="center" dir="auto">
-        <img style="max-width: 100%;" width="400" src="https://github-readme-stats.vercel.app/api?username=wTiger0605&show_icons=true&theme=merko"/><img style="max-width: 100%;" width="335" src="https://github-readme-stats.vercel.app/api/top-langs?username=wTiger0605&show_icons=true&theme=merko&layout=compact"/>
-    </p>
-
-    <p align="center" dir="auto">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sagar-sharma-7&theme=nord_dark"/><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sagar-sharma-7&theme=nord_dark"/>
-    </p>
-    
-    <img src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=gautamkrishnar&hide_title=true&hide_border=true&langs_count=6&bg_color=00000000&text_color=777"/>
-
-    <img src="https://github-profile-trophy.vercel.app/?username=wTiger0605&column=6&rank=SSS,SS,S,AAA,AA,A,B,C"/>
 </details>
 
 <!--
