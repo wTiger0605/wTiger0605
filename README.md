@@ -5,7 +5,7 @@
 -->
 Welcome to my page!
 
-I love to contribute to open source projects. I also write about software engineering, learning, and career to help readers. Currently an undergrad CS student. I worked as Google Summer of Code 2021 Developer at GitLab and Google Summer of Code 2020 Developer at @Mozilla.
+I'm Matej, Fullstack Web developer with over 8 years of experience in software industry. Excellent reputation for resolving problems and improving customer satisfaction. I'm highly proficient in both front-end and back-end frameworks along with relational / non-relational databases and well versed in API creation & integration. I can work and manage from development to test to deployment & my another expertise is, I write very clean and readable code.
 
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
