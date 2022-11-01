@@ -29,7 +29,7 @@ I'm Matej, Fullstack Web developer with over 8 years of experience in software i
     -->
 </p>
 
-<img align="right" width="40%" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+<img align="right" width="400px" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
 #### :sunglasses: About me
 
