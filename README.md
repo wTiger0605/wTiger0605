@@ -29,8 +29,8 @@ I'm Matej, Fullstack Web developer with over 8 years of experience in software i
     -->
 </p>
 
-<!-- <img align="right" width="400px" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"> -->
-<img align="right" width="400px" src="https://github.com/wTiger0605/wTiger0605/blob/main/1_KyC8tx9cl7ftKrPBf2wWGw.gif">
+<img align="right" width="400px" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+<!-- <img align="right" width="400px" src="https://github.com/wTiger0605/wTiger0605/blob/main/1_KyC8tx9cl7ftKrPBf2wWGw.gif"> -->
 
 #### :sunglasses: About me
 
